@@ -9,7 +9,7 @@ public class Main {
     // *****************************************************
     public static void main(String[] args) {
 
-        String target = "C:\\app\\java21\\社員マスタ.csv";
+        String target = "社員マスタ.csv";
         try {
             // 開く
             FileInputStream sjis_file = new FileInputStream(target);
